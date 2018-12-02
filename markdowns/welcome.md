@@ -21,9 +21,7 @@
 -[]Aucunes des réponses précédentes
 
 
-?[Quelle erreur produit ce code ? 
-"Porte porte = null;
-porte.ouvrir();"]
+?[Quelle erreur produit ce code ? "Porte porte = null; porte.ouvrir();"]
 -[]ArithmeticException
 -[x]NullPointerException
 -[]Ce code ne produit qu'un warning
