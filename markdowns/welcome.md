@@ -1,5 +1,5 @@
 
-?[Est ce que le langage Java permet l'uilisation des pointeurs ?]
+?[Est ce que le langage Java permet l'utilisation des pointeurs ?]
 -[ ]Oui
 -[x]Non
 
