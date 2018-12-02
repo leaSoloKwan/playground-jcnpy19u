@@ -22,9 +22,9 @@
 
 
 ?[Quelle erreur produit ce code ? 
-Porte porte = null;
-porte.ouvrir();]
--[ ]ArithmeticException
+"Porte porte = null;
+porte.ouvrir();"]
+-[]ArithmeticException
 -[x]NullPointerException
 -[]Ce code ne produit qu'un warning
 -[]Ce code ne produit aucune erreur
